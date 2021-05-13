@@ -1,0 +1,14 @@
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/bin/Debug/netcoreapp3.1/mapback2.deps.json
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/bin/Debug/netcoreapp3.1/mapback2.runtimeconfig.json
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/bin/Debug/netcoreapp3.1/mapback2.runtimeconfig.dev.json
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/bin/Debug/netcoreapp3.1/mapback2.dll
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/bin/Debug/netcoreapp3.1/mapback2.pdb
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/bin/Debug/netcoreapp3.1/Bio.Core.dll
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.csprojAssemblyReference.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.AssemblyInfoInputs.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.AssemblyInfo.cs
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.csproj.CoreCompileInputs.cache
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.csproj.CopyComplete
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.dll
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.pdb
+/Users/nikolai/Sync-Computing/ShuffleScripts/step3/mapback2/mapback2/mapback2/obj/Debug/netcoreapp3.1/mapback2.genruntimeconfig.cache

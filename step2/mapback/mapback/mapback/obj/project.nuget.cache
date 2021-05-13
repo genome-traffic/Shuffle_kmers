@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "GLAlE8F/1JL/e96IAsMGiZni2nSTiplN1LKKQ6i8VEVWsAaAtWNzIci2S7SpD1WDKlJkH56KHgGvdqltBUJITA==",
+  "success": true,
+  "projectFilePath": "/Users/nikolai/Sync-Computing/ShuffleScripts/step2/mapback/mapback/mapback/mapback.csproj",
+  "expectedPackageFiles": [
+    "/Users/nikolai/.nuget/packages/netbio.core/3.0.0-alpha/netbio.core.3.0.0-alpha.nupkg.sha512"
+  ],
+  "logs": []
+}

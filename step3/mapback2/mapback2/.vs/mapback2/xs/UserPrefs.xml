@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{9BC68BF4-FAB1-47D5-8E99-58FBD299C4C7}|Default">
+  <MonoDevelop.Ide.ItemProperties.mapback2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="mapback2/BackMapper.cs">
+    <Files>
+      <File FileName="mapback2/Program.cs" Line="18" Column="1" />
+      <File FileName="mapback2/BackMapper.cs" Line="65" Column="1" />
+      <File FileName="mapback2/ListSimplifier.cs" Line="38" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="mapback2" expanded="True">
+            <Node name="mapback2" expanded="True">
+              <Node name="BackMapper.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
